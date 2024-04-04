@@ -71,7 +71,7 @@ date_default_timezone_set('Asia/Bangkok');
               <div class="text-start">
                 <h1 class="display-0 mb-3 fs-3">
                   <div>
-                    Meaningful Stories
+                    Stories
                   </div>
                 </h1>
                 <p class="text-lg-start ms-2">Your sim might get into a depressive rut for days that takes planning and effort and some
